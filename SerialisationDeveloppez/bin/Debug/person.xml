@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Personne xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Id="123">
+  <LastName>Dupond</LastName>
+  <FirstName>Jean</FirstName>
+  <Address contentId="0">
+    <Rue>1, rue du petit pont</Rue>
+    <CodePostal>75005</CodePostal>
+    <Ville>Paris</Ville>
+    <Pays>France</Pays>
+    <TypeAdresse>Ship</TypeAdresse>
+  </Address>
+  <Adresses>
+    <Adresse contentId="0">
+      <Rue>2, rue du petit pont</Rue>
+      <CodePostal>75009</CodePostal>
+      <Ville>Paris</Ville>
+      <Pays>France</Pays>
+      <TypeAdresse>Bill</TypeAdresse>
+    </Adresse>
+    <Adresse contentId="0">
+      <Rue>2, rue du petit pont</Rue>
+      <CodePostal>95119</CodePostal>
+      <Ville>Sannois</Ville>
+      <Pays>France</Pays>
+      <TypeAdresse>None</TypeAdresse>
+    </Adresse>
+    <Adresse contentId="0">
+      <Rue>2, rue du petit doigt</Rue>
+      <CodePostal>93000</CodePostal>
+      <Ville>Bobigny</Ville>
+      <Pays>France</Pays>
+      <TypeAdresse>Ship</TypeAdresse>
+    </Adresse>
+  </Adresses>
+  <DateDeNaissance>05/11/2018</DateDeNaissance>
+</Personne>

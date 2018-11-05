@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContactBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Owner xsi:type="Employee" Id="3">
+    <LastName>Dugenou</LastName>
+    <FirstName>Gérard</FirstName>
+    <DateDeNaissance>01/01/0001</DateDeNaissance>
+    <Company>SuperSoft</Company>
+    <Position>CEO</Position>
+    <Salary>2147483647</Salary>
+  </Owner>
+  <Contacts>
+    <Person xsi:type="Employee" Id="123">
+      <LastName>Dupond</LastName>
+      <FirstName>Jean</FirstName>
+      <DateDeNaissance>01/01/0001</DateDeNaissance>
+      <Company>SuperSoft</Company>
+      <Position>Developer</Position>
+      <Salary>40000</Salary>
+    </Person>
+  </Contacts>
+</ContactBook>

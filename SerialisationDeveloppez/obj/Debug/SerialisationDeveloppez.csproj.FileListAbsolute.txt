@@ -1,0 +1,7 @@
+C:\Users\Jeannory.Phou\source\repos\git\SerialisationDeveloppez\SerialisationDeveloppez\bin\Debug\SerialisationDeveloppez.exe.config
+C:\Users\Jeannory.Phou\source\repos\git\SerialisationDeveloppez\SerialisationDeveloppez\bin\Debug\SerialisationDeveloppez.exe
+C:\Users\Jeannory.Phou\source\repos\git\SerialisationDeveloppez\SerialisationDeveloppez\bin\Debug\SerialisationDeveloppez.pdb
+C:\Users\Jeannory.Phou\source\repos\git\SerialisationDeveloppez\SerialisationDeveloppez\obj\Debug\SerialisationDeveloppez.csprojAssemblyReference.cache
+C:\Users\Jeannory.Phou\source\repos\git\SerialisationDeveloppez\SerialisationDeveloppez\obj\Debug\SerialisationDeveloppez.csproj.CoreCompileInputs.cache
+C:\Users\Jeannory.Phou\source\repos\git\SerialisationDeveloppez\SerialisationDeveloppez\obj\Debug\SerialisationDeveloppez.exe
+C:\Users\Jeannory.Phou\source\repos\git\SerialisationDeveloppez\SerialisationDeveloppez\obj\Debug\SerialisationDeveloppez.pdb
